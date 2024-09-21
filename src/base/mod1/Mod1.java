@@ -1,5 +1,6 @@
+package base.mod1;
 
-public class Main {
+public class Mod1 {
     /**
      * Задача 1:
      * Найти сумму всех чисел от 0 до 1000, которые делятся на 3 или 5.
